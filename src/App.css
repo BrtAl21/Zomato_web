@@ -1,0 +1,38 @@
+/* Layout */
+
+.home1{
+  background-color: tomato;
+  margin-bottom: 10px;
+}
+.home2{
+  margin-left: 130px;
+  margin-top: 13px;
+}
+.home3{
+  display: flex;
+  list-style: none;
+  margin-top: 12px;
+}
+
+/* Namakkal Restaurant */
+
+.nklhome{
+  text-decoration: none;
+  color: black;
+}
+.nklhome:hover{
+  color: red;
+}
+.nkla{
+  text-decoration: none;
+}
+
+/* Sree Saravana Bhavan */
+
+.nklnkl{
+  text-decoration: none;
+  color: black;
+}
+.nklnkl:hover{
+  color: red;
+}
